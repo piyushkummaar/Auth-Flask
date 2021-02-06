@@ -1,7 +1,14 @@
 # Flask Auth
 
 ![GitHub Logo](/images/Capture.PNG)
-Format: ![Alt Text](url)
+HomePage: ![HomePage](url)
+
+![GitHub Logo](/images/login.PNG)
+Login: ![Login](url)
+
+![GitHub Logo](/images/signup.PNG)
+Signup: ![SignUp](url)
+
 
 ## For run this program 
 
