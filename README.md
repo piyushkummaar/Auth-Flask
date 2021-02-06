@@ -2,7 +2,7 @@
 
 ## For run this program 
 
-    git clone `<addr>` element here instead.
+    git clone https://github.com/piyushkummaar/Auth-Flask.git
     
 project
 ├── __init__.py       # setup our app
