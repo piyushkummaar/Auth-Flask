@@ -1,3 +1,5 @@
 /*auth
 /*.vscode
 /*__pycache__
+
+/project/*__pycache__
